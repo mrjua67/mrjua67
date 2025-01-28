@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 mrjua67</a></h1>
-<h3 align="center">A passionate frontend && backend developer from Colomnia &#127464;&#127476</h3>
+<h3 align="center">A passionate frontend && backend developer from Colombia &#127464;&#127476</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrjua67c&label=Profile%20views&color=0e75b6&style=flat" alt="mrjua67" /> </p>
 
